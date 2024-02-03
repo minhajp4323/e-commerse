@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/e-commerse/static/css/main.3bc2a253.css",
-    "main.js": "/e-commerse/static/js/main.c806f551.js",
+    "main.js": "/e-commerse/static/js/main.256796c1.js",
     "static/js/787.edf44acd.chunk.js": "/e-commerse/static/js/787.edf44acd.chunk.js",
     "static/media/fa-solid-900.svg": "/e-commerse/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/e-commerse/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -36,11 +36,11 @@
     "static/media/MEN'S VANS WARD SKATE SHOES.avif": "/e-commerse/static/media/MEN'S VANS WARD SKATE SHOES.ced5d44809e2b729ed66.avif",
     "index.html": "/e-commerse/index.html",
     "main.3bc2a253.css.map": "/e-commerse/static/css/main.3bc2a253.css.map",
-    "main.c806f551.js.map": "/e-commerse/static/js/main.c806f551.js.map",
+    "main.256796c1.js.map": "/e-commerse/static/js/main.256796c1.js.map",
     "787.edf44acd.chunk.js.map": "/e-commerse/static/js/787.edf44acd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bc2a253.css",
-    "static/js/main.c806f551.js"
+    "static/js/main.256796c1.js"
   ]
 }
